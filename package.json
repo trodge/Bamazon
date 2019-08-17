@@ -1,0 +1,22 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "amazon-like storefront",
+  "main": "bamazon-customer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trodge/Bamazon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trodge/Bamazon/issues"
+  },
+  "homepage": "https://github.com/trodge/Bamazon#readme",
+  "dependencies": {
+    "mysql": "^2.17.1"
+  }
+}
